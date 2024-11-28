@@ -67,11 +67,6 @@ Contributions to the Train Stations System (TSS) are welcome. Please feel free t
 
 None
 
-## Project Contributors
-
-- Ahmed Mohamed Abdel Hamid (ID: 221011073) - Lead Developer and Database Designer
-- Omar Khaled (ID: 221002374) - Documentation Contributor
-
 ## Acknowledgments
 
 - Course Instructor: Dr. Omar Shalash
