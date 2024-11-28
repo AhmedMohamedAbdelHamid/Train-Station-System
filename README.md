@@ -44,14 +44,10 @@ An Entity Relationship Diagram is included in the project files, visually repres
 
 ## Responsibilities
 
-Ahmed Mohamed Abdel Hamid:
 - Wrote all SQL code for database creation and operations
 - Designed and created the Entity-Relationship Diagram (ERD), including all relationships between entities
 - Provided the data used in the project
 - Implemented the core database functionality
-
-Omar Khaled:
-- Assisted with the preparation of the project report
 
 ## Setup and Installation
 
